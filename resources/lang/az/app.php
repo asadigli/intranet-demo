@@ -1,0 +1,27 @@
+<?php
+
+return [
+  'logout' => 'çıx',
+  'profile' => 'profil',
+  'home' => 'əsas səhifə',
+  'task' => 'tapşırıq',
+  'tasks' => 'tapşırıqlar',
+  'finished_tasks' => 'bitmiş tapşırıqlar',
+  'new_task' => 'yeni tapşırıq',
+  'all_tasks' => 'bütün tapşırıq',
+  'create_new_task' => 'yeni tapşırıq yarat',
+  'active_tasks' => 'aktiv tapşırıq',
+  'tasks_in_progress' => 'prosesdə olan tapşırıqlar',
+  'news' => 'xəbərlər',
+  'members' => 'üzvlər',
+  'member' => 'üzv',
+  'projects' => 'layihələr',
+  'all_projects' => 'bütün layihələr',
+  'project' => 'layihə',
+  'start_a_project' => 'yeni layihə yarat',
+  'my_project' => 'layihələrim',
+  'send_your_idea' => 'ideyanı göndər',
+  'new' => 'yeni',
+  'main' => 'əsas',
+  'main_navigation' => 'ƏSAS NAVİQATOR',
+];
